@@ -4,11 +4,9 @@ I build AI tools that come with the evidence for their claims: model monitoring,
 
 <a href="https://github.com/syre-ai/vigil"><img src="assets/vigil.png" alt="Vigil" width="100%"></a>
 
+<a href="https://github.com/syre-ai/cloudmask-acceptance-audit"><img src="assets/cloudmask.png" alt="Cloud-mask audit" width="100%"></a>
+
 <table>
-<tr>
-<td width="50%"><a href="https://github.com/syre-ai/cloudmask-acceptance-audit"><img src="assets/cloudmask.png" alt="Cloud-mask audit"></a></td>
-<td width="50%"><a href="https://github.com/syre-ai/collision-risk"><img src="assets/collision.png" alt="Collision risk"></a></td>
-</tr>
 <tr>
 <td width="50%"><a href="https://github.com/syre-ai/art-attention-heads"><img src="assets/attention.png" alt="Attention-head taxonomy"></a></td>
 <td width="50%"><a href="https://github.com/syre-ai/ART-SAE-taxonomy"><img src="assets/sae.png" alt="SAE feature taxonomy"></a></td>
